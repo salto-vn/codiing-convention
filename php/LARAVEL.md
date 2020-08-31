@@ -1,4 +1,3 @@
-![Laravel best practices](/images/logo-english.png?raw=true)
 
 It's not a Laravel adaptation of SOLID principles, patterns etc. Here you'll find the best practices which are usually ignored in real life Laravel projects.
 
